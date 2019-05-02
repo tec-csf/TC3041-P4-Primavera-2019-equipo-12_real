@@ -1,0 +1,8 @@
+ITESM Campus Santa Fe
+Daniel Pelagio A01227873
+Luis Fernando Carrasco A01021172
+
+Práctica 4
+
+Problema IoT:
+Se está realizando una investigación en la Antártida donde se desea analizar los registros diarios de ciertas mediciones. Estas mediciones son la temperatura del agua, nivel del agua, temperatura del aire, velocidad delas corrientes del aire. Estas mediciones se realizarán en un total de 3 bases diferentes, estas 3 bases están localizados en diferentes áreas.
