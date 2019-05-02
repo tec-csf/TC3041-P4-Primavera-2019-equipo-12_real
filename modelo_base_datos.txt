@@ -1,0 +1,19 @@
+Modelo Base de Datos:
+
+# DDL
+
+CREATE DATABASE ANTARTIC_research_database
+
+# DML
+
+# CONTEXT-DATABASE: ANTARTIC_research_database
+
+water_temp,base=D85_skiway_Coats_Land temperature=-43.4927 1439856000
+water_temp,base=S17_Schirmacher_region temperature=-63.7641 1439856000
+water_temp,base=Vostok_Atka_bay temperature=-12.4089 1439856000
+water_level,base=D85_skiway_Coats_Land level=13.1086 1439856000
+water_level,base=S17_Schirmacher_region level=0.776618 1439856000
+water_level,base=Vostok_Atka_bay level=10.9068 1439856000
+air_temp,base=D85_skiway_Coats_Land temperature=-33.2301 1439856000
+air_temp,base=S17_Schirmacher_region temperature=-23.7024 1439856000
+air_temp,base=Vostok_Atka_bay temperature=-51.6804 1439856000
